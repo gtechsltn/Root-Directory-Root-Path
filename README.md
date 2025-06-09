@@ -4,7 +4,7 @@
 + .NET 8.0
 
 ```
-IWebHostEnvironment, ContentRootPath  	  // D:\Dev\WebApp\
+IWebHostEnvironment, ContentRootPath  	        // D:\Dev\WebApp\
 
 Path.GetFullPath("temp")                        // D:\Dev\WebApp\temp
 
