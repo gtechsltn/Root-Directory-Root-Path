@@ -3,6 +3,10 @@
 + .NET Core 8.0
 + .NET 8.0
 
+https://lzh-blog.azurewebsites.net
+
+https://lzh-blog.azurewebsites.net/p/54d63097b7
+
 ```
 IWebHostEnvironment, ContentRootPath  	        // D:\Dev\WebApp\
 
